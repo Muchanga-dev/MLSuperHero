@@ -60,7 +60,7 @@ streamlit/
 ## Pré-requisitos
 
 Certifique-se de ter as seguintes ferramentas instaladas:
-- Python 3.8 ou superior
+- Python 3.10 ou superior
 - Pip para gerenciar dependências
 
 ---
@@ -69,7 +69,7 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 
 ### 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu_usuario/MLSuperHero.git
+git clone https://github.com/Muchanga-dev/MLSuperHero.git
 cd MLSuperHero/streamlit
 ```
 
@@ -121,30 +121,12 @@ base="light"
 primaryColor="#4CAF50"
 secondaryBackgroundColor="#F5F5F5"
 ```
-
----
-
-## Exemplos de Uso
-
-1. **Exploração de Dados**:
-   - Acesse a página "Exploração" para visualizar estatísticas e gráficos interativos.
-2. **Clusterização**:
-   - Identifique grupos de heróis com base em características como Altura e Peso.
-3. **Classificação**:
-   - Teste se um herói é bom, mau ou neutro.
-4. **Regressão**:
-   - Estime o peso de um herói com base em suas características.
-
----
-
 ## Contribuindo
 
 Contribuições são bem-vindas! Siga os passos:
 1. Faça um fork do repositório.
 2. Crie um branch para sua feature: `git checkout -b minha-feature`.
 3. Envie um pull request.
-
----
 
 ## Licença
 
