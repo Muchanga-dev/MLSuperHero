@@ -83,8 +83,8 @@ Agrupa os super-heróis com base em características e poderes utilizando **KMea
    - Aplicação do algoritmo KMeans.
 4. **Visualização dos Resultados**:
    - PCA para redução de dimensionalidade e gráficos 2D.
-5. **Salvamento dos Resultados**:
-   - Dados com rótulos de cluster prontos para uso no Streamlit.
+5. **Salvamento dos Resultados e Modelos**:
+   - Dados com rótulos de cluster prontos para uso no Streamlit e os Modelos Treinados.
 
 ---
 
@@ -98,7 +98,7 @@ O projeto também inclui uma aplicação interativa para explorar os dados e mod
 
 ### 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu_usuario/MLSuperHero.git
+git clone https://github.com/Muchanga-dev/MLSuperHero.git
 cd MLSuperHero/
 ```
 
@@ -106,20 +106,6 @@ cd MLSuperHero/
 ```bash
 pip install -r requirements.txt
 ```
-
-### 3. Inicie a aplicação Streamlit:
-```bash
-streamlit run streamlit/app.py
-```
-
----
-
-## Contribuindo
-
-Contribuições são bem-vindas! Siga os passos:
-1. Faça um fork do repositório.
-2. Crie um branch para suas alterações: `git checkout -b minha-feature`.
-3. Envie um pull request.
 
 ---
 
