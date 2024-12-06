@@ -5,7 +5,7 @@ import altair as alt
 @st.cache_data
 def load_data():
     try:
-        df = pd.read_csv('../data/processed/merged_data_cleaned.csv')
+        df = pd.read_csv('data/processed/merged_data_cleaned.csv')
         return df
     except FileNotFoundError:
         st.error("Arquivo `merged_data_cleaned.csv` não encontrado no diretório `data/processed/`.")
