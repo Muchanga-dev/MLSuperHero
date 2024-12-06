@@ -4,8 +4,6 @@
 O **MLSuperHero** é um projeto que combina **análise de dados**, **aprendizado de máquina** e **visualizações interativas** para explorar informações relacionadas a super-heróis. A partir de um conjunto de dados detalhado sobre características e poderes de super-heróis, o projeto aborda tarefas como **clusterização**, **classificação** e **regressão**, além de fornecer uma aplicação interativa desenvolvida com **Streamlit**.
 
 ---
-![Imagem](assets/image.png)
-
 ## Estrutura do Projeto
 
 ```
