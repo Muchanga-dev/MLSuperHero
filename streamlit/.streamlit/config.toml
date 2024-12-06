@@ -1,0 +1,7 @@
+[theme]
+base = "dark"                     # Define o tema como escuro
+primaryColor = "#1f77b4"          # Cor primária (botões, links, etc.)
+backgroundColor = "#0e1117"       # Cor de fundo da aplicação
+secondaryBackgroundColor = "#262730" # Cor de fundo secundária (elementos, painéis)
+textColor = "#ffffff"             # Cor do texto padrão
+font = "sans serif"
